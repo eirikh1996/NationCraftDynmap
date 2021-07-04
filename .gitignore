@@ -1,0 +1,4 @@
+# Project exclude paths
+/NationCraftDynmap-Bukkit/target/
+/NationCraftDynmap-Core/target/
+/target/

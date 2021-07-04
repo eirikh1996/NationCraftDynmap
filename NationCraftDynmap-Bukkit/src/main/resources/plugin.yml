@@ -1,0 +1,6 @@
+name: NationCraftDynmap
+main: io.github.eirikh1996.nationcraftdynmap.bukkit.BukkitMain
+version: 1.0
+depend:
+  - NationCraft
+  - dynmap

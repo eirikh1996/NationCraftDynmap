@@ -1,0 +1,42 @@
+update:
+  period: 200
+infowindow:
+  format: '<div class="infowindow">
+            <span style="font-size:120%;">%regionname%</span>
+            <br>Flags</br>
+            <span style="font-weight:bold;">%flags%</span></div>'
+
+nations:
+  color:
+    fill: 0xff0000
+    line: 0xff0000
+  opacity:
+    fill: 0.3
+    line: 1.0
+  custom:
+    Safezone:
+      color:
+        fill: 0xffaa00
+        line: 0xffaa00
+      opacity:
+        fill: 0.3
+        line: 1.0
+    Warzone:
+      color:
+        fill: 0xaa0000
+        line: 0xaa0000
+      opacity:
+        fill: 0.3
+        line: 1.0
+
+settlements:
+  townCenterMarkers:
+    default: redflag
+    capital: greenflag
+    siege: fire
+  color:
+    fill: 0xfaf73c
+    line: 0xfaf73c
+  opacity:
+    fill: 0.3
+    line: 1.0
